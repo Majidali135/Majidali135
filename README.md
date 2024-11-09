@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Majidali135
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Reatjs
+- 🌱 I’m currently working on Reatjs
 - 💞️ I’m looking to collaborate on IT
 - 📫 How to reach me 03070242451
 - 😄 Pronouns: ...
